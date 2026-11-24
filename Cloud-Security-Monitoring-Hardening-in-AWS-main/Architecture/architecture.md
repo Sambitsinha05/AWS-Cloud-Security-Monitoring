@@ -1,6 +1,6 @@
 # The Architecture of the cloud Security Project
 
-**The image was made by the ChatGPT for the better understanding of the architecture**
+
 <img width="1536" height="1024" alt="ChatGPT Image Jun 30, 2026, 07_57_11 PM" src="https://github.com/user-attachments/assets/e3ebaa3c-cbc7-4f44-839b-0ca96c852a19" />
 
 ### Data Flow 
